@@ -165,7 +165,7 @@ Region dengan profit margin lebih rendah kemungkinan dipengaruhi oleh shipping c
 
 ## Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](images/Dashboard_Preview.png)
 
 ## Repository Structure
 
